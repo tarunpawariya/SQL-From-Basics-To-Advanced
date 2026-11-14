@@ -9,5 +9,5 @@ Topics:
 - GROUP BY 
 - DISTINCT
 - LIMIT
-- JOINS
+- HAVING
   
