@@ -6,5 +6,8 @@ Topics:
 - SELECT
 - WHERE
 - ORDER BY
+- GROUP BY 
 - DISTINCT
 - LIMIT
+- JOINS
+  
